@@ -1,1 +1,2 @@
-# raver1
+# procfile
+worker : java bot.js
